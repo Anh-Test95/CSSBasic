@@ -15,7 +15,7 @@ myName = "Teo";
 console.log(" Xin chao" + myName);
 console.log("Xin chao", myName);
 console.log("Xin chao ${myName}");
-
+// 123123
 let x = 10;
 console.log(typeof x);
 let y = "10";
